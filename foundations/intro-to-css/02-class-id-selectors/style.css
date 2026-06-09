@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+.rose {
+      background-color: rgb(226, 114, 175);
+      font-family: verdana, "dejavu sans", sans-serif";
+}
+
+.third {
+    font-size: 24px;
+}
+
+#nostyle {
+    color: #0a43e0d7;
+    font-size: 36px;
+}
+
+#green{
+    background-color: hsl(120, 54%, 59%);
+    font-size: 24px;
+    font-weight: bold;
+}
+
