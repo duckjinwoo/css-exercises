@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+
+.clickc, .noclickc {
+    
+   font-size: 28px;
+   font-family: Helvetica, "Times New Roman", sans-serif;
+   text-align: center;
+}
+
+.noclickc {
+    background-color: yellow;
+}
+
+.clickc {
+    background-color:black;
+    color:white;
+}
